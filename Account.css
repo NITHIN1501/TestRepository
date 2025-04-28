@@ -1,0 +1,63 @@
+.main-container{
+    display: flex;
+    width: 40%;
+    height: 400px;
+    background-color: black;
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.dp{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 10px;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+    padding: 10px;
+    margin-left: 10%;
+    
+}
+p{
+    font-size: 25px;
+   text-align: center;
+   margin-right: -30%;
+   margin-top: 15%;
+   letter-spacing: 2px;
+}
+.balance{
+
+    font-size: 20px;
+    color: white;
+}
+.money{
+    
+    font-size: 20px;
+    color: white;
+}
+h3{
+    margin-left: 130%;
+    margin-top: -30%;
+}
+.sum{
+    margin-left: 110%;
+
+}
+h2{
+    margin-top: 60%;
+    margin-left: -120%;
+}
